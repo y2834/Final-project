@@ -1,0 +1,31 @@
+/* Basic reset */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  /*  */
+}
+
+header {
+  background: #333;
+  color: #fff;
+  /*  */
+}
+
+.profile {
+  /* */
+}
+
+.profile img {
+  /*  */
+}
+
+.profile-info h2 {
+  margin: 0;
+}
+
+/* Add your own styles below */
